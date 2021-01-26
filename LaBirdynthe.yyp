@@ -16,6 +16,7 @@
     {"id":{"name":"obj_case_03","path":"objects/obj_case_03/obj_case_03.yy",},"order":2,},
     {"id":{"name":"spr_case03","path":"sprites/spr_case03/spr_case03.yy",},"order":2,},
     {"id":{"name":"obj_case_02","path":"objects/obj_case_02/obj_case_02.yy",},"order":1,},
+    {"id":{"name":"spr_lock","path":"sprites/spr_lock/spr_lock.yy",},"order":6,},
     {"id":{"name":"obj_case_activ","path":"objects/obj_case_activ/obj_case_activ.yy",},"order":5,},
     {"id":{"name":"obj_case_05","path":"objects/obj_case_05/obj_case_05.yy",},"order":4,},
     {"id":{"name":"Pièce1","path":"rooms/Pièce1/Pièce1.yy",},"order":0,},

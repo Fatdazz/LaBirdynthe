@@ -27,9 +27,10 @@ if(keyboard_check_pressed(vk_right)){
 	}
 }
 	
-if(keyboard_check_pressed(vk_backspace)){
+if(keyboard_check_pressed(vk_space)){
 
 	var objCase = instance_position(x,y,obj_case);
-	objCase.lock_cheked = true;
+	objCase.lock_rotation = true;
+	
 
 }
