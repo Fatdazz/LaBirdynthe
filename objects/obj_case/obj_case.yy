@@ -30,8 +30,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objets",
-    "path": "folders/Objets.yy",
+    "name": "Case",
+    "path": "folders/Objets/Case.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_case",

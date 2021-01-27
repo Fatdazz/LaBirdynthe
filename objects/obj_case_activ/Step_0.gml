@@ -33,8 +33,8 @@ if(avatar.x == x && avatar.y = y && !activeRotation){
 				objCase.active_down = right;
 				objCase.active_left = down;
 				objCase.active_right = up;
-				objCase.image_angle = 90;
-				global.rotation += 90;
+				objCase.image_angle = 270;
+				global.rotation += 270;
 			}
 		}
 		objCase.lock_rotation = false;

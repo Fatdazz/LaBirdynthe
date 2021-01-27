@@ -38,8 +38,8 @@
     {"propertyId":{"name":"active_top","path":"objects/obj_case/obj_case.yy",},"objectId":{"name":"obj_case","path":"objects/obj_case/obj_case.yy",},"value":"True","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
-    "name": "Case",
-    "path": "folders/Objets/Case.yy",
+    "name": "Objets",
+    "path": "folders/Objets.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_case_activ",
